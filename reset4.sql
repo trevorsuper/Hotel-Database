@@ -1,0 +1,1 @@
+SELECT name FROM sys.databases WHERE NAME = 'sqlproject';
